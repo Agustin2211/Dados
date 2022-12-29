@@ -16,3 +16,8 @@
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
 }
+
+.badge{
+  background-color: green;
+  text-anchor: 5px;
+}
