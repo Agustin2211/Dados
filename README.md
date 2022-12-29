@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
+Proyecto de Angular el cual está basado en clickear un boton y hacer "girar" los dados. En el momento que salgan dos numeros iguales, aparecera un cartel indicando que ganamos.
+
+Link del proyecto: https://unique-rolypoly-d2845e.netlify.app/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
