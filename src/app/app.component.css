@@ -1,0 +1,18 @@
+.jumbutron{
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: green;
+  border-radius: 3rem;
+}
+
+.img{
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  background-color: cyan;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
